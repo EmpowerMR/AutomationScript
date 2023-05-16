@@ -69,6 +69,7 @@ namespace HelloWorld_1
 		public void Run(IEngine engine)
 		{
 			engine.GenerateInformation("Hello world!");
+			// changes
 		}
 	}
 }
